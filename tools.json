@@ -1,0 +1,989 @@
+[{
+        "name": "Hemlock",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Assault Rifle",
+        "ammo": "Heavy",
+        "damage": {
+            "head": 35,
+            "body": 20,
+            "legs": 15
+        },
+        "rpm": {
+            "burst": 414,
+            "semi": 384
+        },
+        "magazine": {
+            "0": 18,
+            "1": 24,
+            "2": 27,
+            "3": 30,
+            "boostedLoader": {
+                "0": 24,
+                "1": 30,
+                "2": 33,
+                "3": 36
+            }
+        },
+        "reload": {
+            "tac": {
+                "0": 2.4,
+                "1": 2.32,
+                "2": 2.24,
+                "3": 2.16,
+                "boostedLoader": {
+                    "0": 1.75,
+                    "1": 1.69,
+                    "2": 1.63,
+                    "3": 1.58
+                }
+            },
+            "full": {
+                "0": 2.85,
+                "1": 2.76,
+                "2": 2.66,
+                "3": 2.57
+            }
+            
+        }
+    },{
+        "name": "Havoc",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Assault Rifle",
+        "ammo": "Energy",
+        "damage": {
+            "head": 32,
+            "body": 18,
+            "legs": 15
+        },
+        "rpm": {
+            "full": 672
+        },
+        "magazine": {
+            "0": 24,
+            "1": 28,
+            "2": 32,
+            "3": 36
+        },
+        "reload": {
+            "full": {
+                "0": 3.20,
+                "1": 3.09,
+                "2": 2.99,
+                "3": 2.88
+            }
+            
+        }
+    },{
+        "name": "VK-47 Flatline",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Assault Rifle",
+        "ammo": "Heavy",
+        "damage": {
+            "head": 32,
+            "body": 18,
+            "legs": 14
+        },
+        "rpm": {
+            "full": 600
+        },
+        "magazine": {
+            "0": 20,
+            "1": 25,
+            "2": 28,
+            "3": 30
+        },
+        "reload": {
+            "tac": {
+                "0": 2.4,
+                "1": 2.32,
+                "2": 2.24,
+                "3": 2.16
+            },
+            "full": {
+                "0": 3.1,
+                "1": 3,
+                "2": 2.89,
+                "3": 2.79
+            }
+            
+        }
+    },{
+        "name": "R-301 Carbine",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Assault Rifle",
+        "ammo": "Light",
+        "damage": {
+            "head": 25,
+            "body": 14,
+            "legs": 11
+        },
+        "rpm": {
+            "full": 810
+        },
+        "magazine": {
+            "0": 18,
+            "1": 20,
+            "2": 25,
+            "3": 28
+        },
+        "reload": {
+            "tac": {
+                "0": 2.4,
+                "1": 2.32,
+                "2": 2.24,
+                "3": 2.16
+            },
+            "full": {
+                "0": 3.2,
+                "1": 3.09,
+                "2": 2.99,
+                "3": 2.88
+            }
+        }
+    },{
+        "name": "Alternator",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "SMG",
+        "ammo": "Light",
+        "damage": {
+            "head": 24,
+            "body": 16,
+            "legs": 13
+        },
+        "rpm": {
+            "full": 600
+        },
+        "magazine": {
+            "0": 19,
+            "1": 22,
+            "2": 25,
+            "3": 27
+        },
+        "reload": {
+            "tac": {
+                "0": 1.9,
+                "1": 1.84,
+                "2": 1.77,
+                "3": 1.71
+            },
+            "full": {
+                "0": 2.23,
+                "1": 2.16,
+                "2": 2.08,
+                "3": 2.01
+            }
+            
+        }
+    },{
+        "name": "Prowler Burst PDW",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "SMG",
+        "ammo": "Heavy",
+        "damage": {
+            "head": 21,
+            "body": 14,
+            "legs": 11
+        },
+        "rpm": {
+            "burst": 666
+        },
+        "magazine": {
+            "0": 20,
+            "1": 25,
+            "2": 30,
+            "3": 35
+        },
+        "reload": {
+            "tac": {
+                "0": 2,
+                "1": 1.93,
+                "2": 1.87,
+                "3": 1.8
+            },
+            "full": {
+                "0": 2.6,
+                "1": 2.51,
+                "2": 2.43,
+                "3": 2.34
+            }
+            
+        }
+    },{
+        "name": "R99",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "SMG",
+        "ammo": "Light",
+        "damage": {
+            "head": 17,
+            "body": 11,
+            "legs": 9
+        },
+        "rpm": {
+            "full": 1080
+        },
+        "magazine": {
+            "0": 20,
+            "1": 22,
+            "2": 24,
+            "3": 27
+        },
+        "reload": {
+            "tac": {
+                "0": 1.8,
+                "1": 1.74,
+                "2": 1.68,
+                "3": 1.62
+            },
+            "full": {
+                "0": 2.45,
+                "1": 2.37,
+                "2": 2.29,
+                "3": 2.21
+            }            
+        }
+    },{
+        "name": "Volt",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "SMG",
+        "ammo": "Energy",
+        "damage": {
+            "head": 23,
+            "body": 15,
+            "legs": 12
+        },
+        "rpm": {
+            "full": 720
+        },
+        "magazine": {
+            "0": 19,
+            "1": 21,
+            "2": 23,
+            "3": 26
+        },
+        "reload": {
+            "tac": {
+                "0": 1.44,
+                "1": 1.39,
+                "2": 1.34,
+                "3": 1.3
+            },
+            "full": {
+                "0": 2.03,
+                "1": 1.96,
+                "2": 1.89,
+                "3": 1.83
+            }
+        }
+    },{
+        "name": "C.A.R.",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "SMG",
+        "ammo": "Heavy",
+        "damage": {
+            "head": 20,
+            "body": 13,
+            "legs": 10
+        },
+        "rpm": {
+            "full": 930
+        },
+        "magazine": {
+            "0": 20,
+            "1": 1.64,
+            "2": 1.59,
+            "3": 1.53
+        },
+        "reload": {
+            "tac": {
+                "0": 2.13,
+                "1": 2.06,
+                "2": 1.99,
+                "3": 1.92
+            },
+            "full": {
+                "0": 3.2,
+                "1": 3.09,
+                "2": 2.99,
+                "3": 2.88
+            }
+            
+        }
+    },{
+        "name": "Devotion",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "LMG",
+        "ammo": "Energy",
+        "damage": {
+            "head": 23,
+            "body": 15,
+            "legs": 13
+        },
+        "rpm": {
+            "full": {
+                "start": 300,
+                "end": 900
+            },
+            "turboCharger": {
+                "start": 408,
+                "end": 900
+            }
+        },
+        "magazine": {
+            "0": 36,
+            "1": 40,
+            "2": 44,
+            "3": 48,
+            "moddedLoader": {
+                "0": 41,
+                "1": 46,
+                "2": 51,
+                "3": 55
+            }
+        },
+        "reload": {
+            "tac": {
+                "0": 2.8,
+                "1": 2.71,
+                "2": 2.61,
+                "3": 2.52,
+                "moddedLoader": {
+                    "0": 2.1,
+                    "1": 2.03,
+                    "2": 1.96,
+                    "3": 1.89
+                }
+            },
+            "full": {
+                "0": 3.63,
+                "1": 3.51,
+                "2": 3.39,
+                "3": 3.29,
+                "moddedLoader": {
+                    "0": 2.72,
+                    "1": 2.63,
+                    "2": 2.54,
+                    "3": 2.45
+                }
+            }      
+        }
+    },{
+        "name": "L-STAR",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "LMG",
+        "ammo": "Energy",
+        "damage": {
+            "head": 26,
+            "body": 17,
+            "legs": 14
+        },
+        "rpm": {
+            "full": 600
+        },
+        "magazine": {
+            "0": 20,
+            "1": 22,
+            "2": 24,
+            "3": 26,
+            "moddedLoader": {
+                "0": 23,
+                "1": 26,
+                "2": 28,
+                "3": 30
+            }
+        },
+        "reload": {
+            "full": {
+                "0": 2.45,
+                "1": 2.37,
+                "2": 2.29,
+                "3": 2.21,
+                "moddedLoader": {
+                    "0": 1.84,
+                    "1": 1.78,
+                    "2": 1.71,
+                    "3": 1.65
+                }
+            }            
+        }
+    },{
+        "name": "M600 Spitfire",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "LMG",
+        "ammo": "Light",
+        "damage": {
+            "head": 27,
+            "body": 18,
+            "legs": 15
+        },
+        "rpm": {
+            "full": 540
+        },
+        "magazine": {
+            "0": 35,
+            "1": 40,
+            "2": 45,
+            "3": 50,
+            "moddedLoader": {
+                "0": 40,
+                "1": 46,
+                "2": 52,
+                "3": 58
+            }
+        },
+        "reload": {
+            "tac": {
+                "0": 3.4,
+                "1": 3.29,
+                "2": 3.17,
+                "3": 3.06,
+                "moddedLoader": {
+                    "0": 2.55,
+                    "1": 2.47,
+                    "2": 2.38,
+                    "3": 2.3
+                }
+            },
+            "full": {
+                "0": 4.2,
+                "1": 4.06,
+                "2": 3.92,
+                "3": 3.78,
+                "moddedLoader": {
+                    "0": 3.15,
+                    "1": 3.05,
+                    "2": 2.94,
+                    "3": 2.84
+                }
+            }            
+        }
+    },{
+        "name": "Rampage",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "LMG",
+        "ammo": "Heavy",
+        "damage": {
+            "head": 42,
+            "body": 28,
+            "legs": 24
+        },
+        "rpm": {
+            "full": 300,
+            "revvedUp": 390
+        },
+        "magazine": {
+            "0": 40,
+            "revvedUp": 46
+        }
+    },{
+        "name": "G7 Scout",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Marksman",
+        "ammo": "Light",
+        "damage": {
+            "head": 60,
+            "body": 34,
+            "legs": 26
+        },
+        "rpm": {
+            "semi": 240
+        },
+        "magazine": {
+            "0": 10,
+            "1": 15,
+            "2": 18,
+            "3": 20
+        },
+        "reload": {
+            "tac": {
+                "0": 2.16,
+                "1": 2.09,
+                "2": 2.02,
+                "3": 1.94
+            },
+            "full": {
+                "0": 2.7,
+                "1": 2.61,
+                "2": 2.52,
+                "3": 2.43
+            } 
+        }
+    }, {
+        "name": "Triple Take",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Marksman",
+        "ammo": "Energy",
+        "damage": {
+            "head": 111,
+            "body": 63,
+            "legs": 19.3
+        },
+        "rpm": {
+            "semi": 72
+        },
+        "magazine": {
+            "0": 18,
+            "1": 21,
+            "2": 24,
+            "3": 27
+        },
+        "reload": {
+            "tac": {
+                "0": 2.34,
+                "1": 2.26,
+                "2": 2.18,
+                "3": 2.11
+            },
+            "full": {
+                "0": 3.06,
+                "1": 2.96,
+                "2": 2.85,
+                "3": 2.75
+            }
+        }
+    },{
+        "name": "R-301 Carbine",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Marksman",
+        "ammo": "Heavy",
+        "damage": {
+            "head": {
+                "min": 74,
+                "max": 100,
+                "skullPiercer": {
+                    "min": 88,
+                    "max": 120
+                }
+            },
+            "body": {
+                "min": 42,
+                "max": 57
+            },
+            "legs": {
+                "min": 36,
+                "max": 48
+                }
+        },
+        "rpm": {
+            "semi": 139
+        },
+        "magazine": {
+            "0": 6,
+            "1": 8,
+            "2": 10,
+            "3": 12
+        },
+        "reload": {
+            "message": "Reload times are per 2 bullets.",
+            "tac": {
+                "0": 0.33,
+                "1": 0.31,
+                "2": 0.29,
+                "3": 0.26
+            },
+            "full": {
+                "0": 0.75,
+                "1": 0.71,
+                "2": 0.66,
+                "3": 0.6
+            }
+        }
+    },{
+        "name": "Bocek Compound Bow",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Marksman",
+        "ammo": "Arrows",
+        "damage": {
+            "head": {
+                "min": 31,
+                "max": 123,
+                "shatterCaps": {
+                    "min": 42,
+                    "max": 105
+                }
+            },
+            "body": {
+                "min": 25,
+                "max": 70,
+                "shatterCaps": {
+                    "min": 35,
+                    "max": 84
+                }
+            },
+            "legs": {
+                "min": 20,
+                "max": 63,
+                "shatterCaps": {
+                    "min": 28,
+                    "max": 84
+                }
+            }
+        },
+        "rpm": {
+            "message": "Draw time corresponds to damage.",
+            "min": 107,
+            "max": 180
+        }
+    },{
+        "name": "Charge Rifle",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Sniper",
+        "ammo": "Sniper",
+        "damage": {
+            "head": {
+                "beam": {
+                    "min": 4,
+                    "max": 15
+                },
+                "blast": 56
+            },
+            "body": {
+                "beam": {
+                    "min": 3,
+                    "max": 15
+                },
+                "blast": 45
+            },
+            "legs": {
+                "beam": {
+                    "min": 3,
+                    "max": 15
+                },
+                "blast": 45
+            }
+        },
+        "pm": {
+            "semi": 26
+        },
+        "magazine": 8,
+        "reload": {
+            "tac": {
+                "0": 4,
+                "1": 3.87,
+                "2": 3.73,
+                "3": 3.6
+            },
+            "full": {
+                "0": 5.1,
+                "1": 4.93,
+                "2": 4.76,
+                "3": 4.59
+            }            
+        }
+    },{
+        "name": "Longbow DMR",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Sniper",
+        "ammo": "Sniper",
+        "damage": {
+            "head": 118,
+            "body": 55,
+            "legs": 44
+        },
+        "rpm": {
+            "semi": 78
+        },
+        "magazine": {
+            "0": 6,
+            "1": 8,
+            "2": 10,
+            "3": 12
+        },
+        "reload": {
+            "tac": {
+                "0": 2.66,
+                "1": 2.57,
+                "2": 2.48,
+                "3": 2.39
+            },
+            "full": {
+                "0": 3.66,
+                "1": 3.54,
+                "2": 3.41,
+                "3": 3.29
+            }            
+        }
+    },{
+        "name": "Kraber .50-Cal",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Sniper",
+        "ammo": "Sniper",
+        "damage": {
+            "head": 280,
+            "body": 140,
+            "legs": 114
+        },
+        "rpm": {
+            "full": 25
+        },
+        "magazine": 4,
+        "reload": {
+            "tac": 3.2,
+            "full": 4.3            
+        }
+    },{
+        "name": "Sentinel",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Sniper",
+        "ammo": "Sniper",
+        "damage": {
+            "head": {
+                "0": 140,
+                "amped": 176
+            },
+            "body": {
+                "0": 70,
+                "amped": 88
+            },
+            "legs": {
+                "0": 63,
+                "amped": 79
+            }
+        },
+        "rpm": {
+            "semi": {
+                "0": 31,
+                "amped": 38
+            }
+        },
+        "magazine": {
+            "0": 4,
+            "1": 5,
+            "2": 6,
+            "3": 7
+        },
+        "reload": {
+            "tac": {
+                "0": 2.5,
+                "1": 2.42,
+                "2": 2.33,
+                "3": 2.25
+            },
+            "full": {
+                "0": 3.6,
+                "1": 3.48,
+                "2": 3.36,
+                "3": 3.24
+            }
+        }
+    },{
+        "name": "EVA-8 Auto",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Shotgun",
+        "ammo": "Shotgun",
+        "damage": {
+            "head": 72,
+            "body": 56,
+            "legs": 56
+        },
+        "rpm": {
+            "full": {
+                "0": {
+                    "0": 138,
+                    "doubleTap": 139
+                },
+                "1": {
+                    "0": 152,
+                    "doubleTap": 159
+                },
+                "2": {
+                    "0": 166,
+                    "doubleTap": 141
+                },
+                "3": {
+                    "0": 167,
+                    "doubleTap": 132
+                }
+            }
+        },
+        "magazine": 8,
+        "reload": {
+            "tac": {
+                "0": 2.5,
+                "1": 2.42,
+                "2": 2.33,
+                "3": 2.25
+            },
+            "full": {
+                "0": 2.8,
+                "1": 2.71,
+                "2": 2.61,
+                "3": 2.52
+            }            
+        }
+    },{
+        "name": "Mastiff",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Shotgun",
+        "ammo": "Shotgun",
+        "damage": {
+            "head": 144,
+            "body": 132,
+            "legs": 132
+        },
+        "rpm": {
+            "semi": 66
+        },
+        "magazine": {
+            "0": 4
+        },
+        "reload": {
+            "message": "TTR is per shell.",
+            "tac": 1.3,
+            "full": 1.7
+        }
+    },{
+        "name": "Mozambique",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Shotgun",
+        "ammo": "Shotgun",
+        "damage": {
+            "head": {
+                "0": 57,
+                "hammerPoint": 75
+            },
+            "body": {
+                "0": 45,
+                "hammerPoint": 60
+            },
+            "legs": {
+                "0": 45,
+                "hammerPoint": 60
+            }
+        },
+        "rpm": {
+            "full": {
+                "0": 132,
+                "1": 152,
+                "2": 165,
+                "3": 178
+            }
+        },
+        "magazine": {
+            "0": 6
+        },
+        "reload": {
+            "full": 2.4
+        }
+    },{
+        "name": "RE-45 Auto",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Pistol",
+        "ammo": "Light",
+        "damage": {
+            "head": {
+                "0": 18,
+                "hammerPoint": 24
+            },
+            "body": {
+                "0": 12,
+                "hammerPoint": 16
+            },
+            "legs": {
+                "0": 11,
+                "hammerPoint": 14
+            }
+        },
+        "rpm": {
+            "full": 780
+        },
+        "magazine": {
+            "0": 16,
+            "1": 19,
+            "2": 22,
+            "3": 25
+        },
+        "reload": {
+            "tac": 1.5,
+            "full": 1.95
+        }
+    },{
+        "name": "P2020",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Pistol",
+        "ammo": "Light",
+        "damage": {
+            "head": {
+                "0": 27,
+                "hammerPoint": 41
+            },
+            "body": {
+                "0": 18,
+                "hammerPoint": 27
+            },
+            "legs": {
+                "0": 16,
+                "hammerPoint": 24
+            }
+        },
+        "rpm": {
+            "semi": 420
+        },
+        "magazine": {
+            "0": 14,
+            "1": 16,
+            "2": 18,
+            "3": 21
+        },
+        "reload": {
+            "full": 1.25
+        }
+    },{
+        "name": "Wingman",
+        "game": "Apex Legends",
+        "season": "14",
+        "class": "Sniper",
+        "ammo": "Sniper",
+        "damage": {
+            "head": {
+                "0": 97,
+                "skullPiercer": 113
+            },
+            "body": 45,
+            "legs": 41
+        },
+        "rpm": {
+            "semi": 156
+        },
+        "magazine": {
+            "0": 6,
+            "1": 7,
+            "2": 8,
+            "3": 9,
+            "boostedLoader": {
+                "0": 8,
+                "1": 9,
+                "2": 10,
+                "3": 11
+            }
+        },
+        "reload": {
+            "full": 2.1,
+            "boostedLoader": 1.4
+        }
+}]
